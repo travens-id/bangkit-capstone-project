@@ -3,7 +3,7 @@ The documentation of Travens' application in Bangkit Capstone Project 2022
 
 |         Member              | Student ID |        Path        |                Role                        |                                                  Contacts                                                  |
 | :--------------------:      | :--------: | :----------------: | :----------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-|   Eric Julianto        |  M0090939  |  Machine Learning  | Project Manager, Machine Learning Engineer|  [LinkedIn - Nevindra] or [Github - Nevindra]        |
+|   Eric Julianto        |  M2195F1854  |  Machine Learning  | Project Manager, Machine Learning Engineer|  [LinkedIn - Nevindra] or [Github - Nevindra]        |
 |   Aghni Syifa Ahmari   |  M0090939  |  Machine Learning  |         Machine Learning Engineer         |     [LinkedIn - Sekar] or [Github - Sekar]     |
 |  Setyo         |  A2112055  | Mobile Development |              Android Mobile Developer      | [LinkedIn - Anna] or [Github - Anna] |
 |  Widi               |  A0090941  | Mobile Development |              Android Mobile Developer      | [LinkedIn - Sahir] or [Github - Sahir] |
