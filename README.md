@@ -3,7 +3,7 @@ The documentation of Travens' application in Bangkit Capstone Project 2022
 ![Travens](https://github.com/algonacci/Free-CDN/blob/main/Travens-CDN/Banner_Travens.png?raw=True)
 
 # About
-Travens is an end-to-end tourism super app.
+Travens is an end-to-end tourism super app that provides all of your tourism needs for the maximum experience while vacation.
 
 # The Team
 
