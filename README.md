@@ -9,12 +9,12 @@ Travens is an end-to-end tourism super app.
 
 |         Member              | Student ID |        Path        |                Role                        |                                                  Contacts                                                  |
 | :--------------------:      | :--------: | :----------------: | :----------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-| Eric Julianto               |  M2195F1854  |  Machine Learning  | Project Manager, Machine Learning Engineer| [LinkedIn - Eric](https://github.com/algonacci) or [Github - Eric]        |
-| Aghni Syifa Ahmari          |  M2224W2059  |  Machine Learning  | Machine Learning Engineer                 | [LinkedIn - Sekar] or [Github - Sekar]     |
-| Setyo Fajar Pratomo         |  A7006H0543  | Mobile Development | Android Mobile Developer                  | [LinkedIn - Anna] or [Github - Anna] |
-| Widya Puji Saputro          |  A7013G1358  | Mobile Development | Android Mobile Developer                  | [LinkedIn - Sahir] or [Github - Sahir] |
-| Ni Putu Sintia Wati         |  C0040284    |  Cloud Computing   | DevOps Engineer                           | [LinkedIn - Akhdan] |
-| Nur Kholis Azzam Ubaidillah |  C1881900    |  Cloud Computing   | DevOps Engineer, Designer                 | [LinkedIn - Ledy] or [Github - Ledy]     |
+| Eric Julianto               |  M2195F1854  |  Machine Learning  | Project Manager, Machine Learning Engineer| [LinkedIn](https://www.linkedin.com/in/ericjulianto/) or [Github](https://github.com/algonacci)       |
+| Aghni Syifa Ahmari          |  M2224W2059  |  Machine Learning  | Machine Learning Engineer                 | [LinkedIn](https://www.linkedin.com/in/aghni-syifa-ahmari-a613a6206/) or [Github](https://github.com/aghnisyifa)     |
+| Setyo Fajar Pratomo         |  A7006H0543  | Mobile Development | Android Mobile Developer                  | [LinkedIn](https://www.linkedin.com/in/setyofajar/) or [Github](https://github.com/setyofp)         |
+| Widya Puji Saputro          |  A7013G1358  | Mobile Development | Android Mobile Developer                  | [LinkedIn](https://www.linkedin.com/in/widya-puji-saputro-bb8a74129/) or [Github](https://github.com/Widi-ps)       |
+| Ni Putu Sintia Wati         |  C0040284    |  Cloud Computing   | DevOps Engineer                           | [LinkedIn](https://www.linkedin.com/in/putusintia/) or [Github](https://github.com/sintiasnn) |
+| Nur Kholis Azzam Ubaidillah |  C1881900    |  Cloud Computing   | DevOps Engineer, Designer                 | [LinkedIn](https://www.linkedin.com/in/azzam-ubaidillah-311b5319a/) or [Github](https://github.com/Azzamubaidillah)       |
 
 # License
 Distributed under the MIT License. See `LICENSE` for more information.
