@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/86970816/167881548-27831a16-7d20-4f29-a80d-3fb63bf5b277.png)
+
+
 # bangkit-capstone-project
 The documentation of Travens' application in Bangkit Capstone Project 2022
 ![Travens](https://github.com/algonacci/Free-CDN/blob/main/Travens-CDN/Banner_Travens.png?raw=True)
