@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/86970816/167881548-27831a16-7d20-4f29-a80d-3fb63bf5b277.png)
+![image](https://user-images.githubusercontent.com/86970816/167998296-4756c025-f26f-4bd9-ae96-0ae0d46e9312.png)
 
 
 # bangkit-capstone-project
