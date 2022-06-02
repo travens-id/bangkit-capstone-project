@@ -21,3 +21,5 @@ Travens is an end-to-end tourism super app that provides all of your tourism nee
 
 # License
 Distributed under the MIT License. See `LICENSE` for more information.
+
+<p align="right"> Keep the Bangkit Spirit and Stay Safe! <br> C22-PS007 Teams </p>
