@@ -19,6 +19,14 @@ Travens is an end-to-end tourism super app that provides all of your tourism nee
 |     Ni Putu Sintia Wati     | C2014J1378 |   Cloud Computing  |               DevOps Engineer              |            [LinkedIn](https://www.linkedin.com/in/putusintia/) or [Github](https://github.com/sintiasnn)            |
 | Nur Kholis Azzam Ubaidillah | C2224W2085 |   Cloud Computing  |          DevOps Engineer, Designer         | [LinkedIn](https://www.linkedin.com/in/azzam-ubaidillah-311b5319a/) or [Github](https://github.com/Azzamubaidillah) |
 
+# Repositories
+
+|   Learning Paths   |                                Link                                |
+| :----------------: | :----------------------------------------------------------------: |
+| Mobile Development | [Github](https://github.com/travens-id/bangkit-mobile-development) |
+|  Machine Learning  |  [Github](https://github.com/travens-id/bangkit-machine-learning)  |
+|   Cloud Computing  |   [Github](https://github.com/travens-id/bangkit-destination-API)  |
+
 # License
 Distributed under the MIT License. See `LICENSE` for more information.
 
