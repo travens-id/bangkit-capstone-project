@@ -28,6 +28,9 @@ Travens is an end-to-end tourism super app that provides all of your tourism nee
 |  Machine Learning  |  [Github](https://github.com/travens-id/bangkit-machine-learning)  |
 |   Cloud Computing  |   [Github](https://github.com/travens-id/bangkit-destination-API)  |
 
+# Service Architecture
+![Service_Architecture](https://user-images.githubusercontent.com/86970816/172196957-b66a2424-bf1a-4c90-aaf2-842122eba1fa.png)
+
 # License
 Distributed under the MIT License. See `LICENSE` for more information.
 
